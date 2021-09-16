@@ -1,6 +1,6 @@
 ### Hi there, I'm Rune  - aka [RKChrist][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://RKChrist.dk)
+[![Website](https://img.shields.io/website?label=RKChrist.dk&style=for-the-badge&url=https%3A%2F%2Frkchrist.dk)](https://RKChrist.dk)
 
 ## I'm currently a Student, Junior Developer! 🧑‍🎓
 - 📖  I'm Currently Learning API & ASP.NET Core (C#)
@@ -15,3 +15,5 @@
 <br />
 
 ### Languages and Tools:
+
+[website]: RKChrist.dk
