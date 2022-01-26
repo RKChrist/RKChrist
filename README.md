@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=RKChrist.dk&style=for-the-badge&url=https%3A%2F%2Frkchrist.dk)](https://RKChrist.dk)
 
 ## I'm currently a Student, Junior Developer! 🧑‍🎓
-- 📖  I'm Currently Learning API & ASP.NET Core (C#)
+- 📖  I'm Currently Learning Data Science though Kaggle, Learning about big data architectures like data lakes and learning Cyper Security in regard there to. 
 - 🖥️  I'm interestered in Cyber Security
-- 🏁  2021 Goals: Aspire to get better at other languages than C#
+- 🏁  2022 Goals: Aspire to get better at other languages than C#
 - ⚡  Fun Fact: In my free time, I like to broaden my knowledge about programming.
 
 ### Socials:
